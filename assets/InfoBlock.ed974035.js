@@ -1,0 +1,1 @@
+import{Q as o}from"./QIcon.612bf3f4.js";import{_ as n,o as s,B as t,e as c,h as a,D as r}from"./index.870c05e5.js";const _={},l={class:"info-block"},f={class:"info-block-content text-left"};function i(e,d){return s(),t("div",l,[c(o,{name:"fa-solid fa-info info-block-icon"}),a("div",f,[r(e.$slots,"default")])])}var p=n(_,[["render",i]]);export{p as I};
