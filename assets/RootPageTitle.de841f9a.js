@@ -1,0 +1,1 @@
+import{a as t,L as o,o as a,B as s,a2 as _}from"./index.8a83857f.js";const n={class:"root-page-title"},p=t({__name:"RootPageTitle",setup(r){return o(),(e,i)=>(a(),s("div",n,_(e.$route.name),1))}});export{p as _};

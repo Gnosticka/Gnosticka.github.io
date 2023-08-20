@@ -1,0 +1,1 @@
+import{o as n,B as p}from"./index.8a83857f.js";const l=["value"],o={__name:"TextInput",props:{value:{type:String,default:""}},emits:["update:value"],setup(t,{emit:a}){const u=e=>{a("update:value",e.target.value)};return(e,_)=>(n(),p("input",{type:"text",class:"app-input basic-input",value:t.value,onInput:u},null,40,l))}};export{o as _};

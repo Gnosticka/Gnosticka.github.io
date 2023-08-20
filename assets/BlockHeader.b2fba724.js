@@ -1,0 +1,1 @@
+import{ab as t,o as a,B as r,D as o}from"./index.8a83857f.js";const c={},s={class:"block-header text-uppercase text-caption"};function _(e,n){return a(),r("div",s,[o(e.$slots,"default")])}var d=t(c,[["render",_]]);export{d as B};
