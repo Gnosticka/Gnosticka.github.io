@@ -1,0 +1,1 @@
+import{Q as o}from"./QPage.53cc7524.js";import{S as n,U as c,V as f,Y as i}from"./index.07e5bfa0.js";var _=(e,t)=>{const r=e.__vccOpts||e;for(const[s,a]of t)r[s]=a;return r};const l={};function m(e,t){return n(),c(o,{class:"row items-center justify-evenly"},{default:f(()=>t[0]||(t[0]=[i(" Settings ")])),_:1})}var d=_(l,[["render",m]]);export{d as default};
